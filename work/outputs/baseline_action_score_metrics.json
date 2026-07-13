@@ -1,0 +1,10 @@
+{
+  "rows_scored": 30000,
+  "action_counts": {
+    "monitor": 29983,
+    "refresh_and_review_ctr": 17
+  },
+  "top_queue_score": 61678.0,
+  "declining_rate_in_top20": 0.85,
+  "rule": "stale(>=180d) x visible(>=500 impr) -> ctr/engagement branch"
+}
