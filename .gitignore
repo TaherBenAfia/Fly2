@@ -25,6 +25,7 @@ outputs/*.csv
 
 # --- Intern work area ------------------------------------------------------
 # your experiments live in work/; datasets never enter git
+work/**/*.csv
 
 # --- Python / notebooks ----------------------------------------------------
 __pycache__/
