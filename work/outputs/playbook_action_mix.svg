@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="480" y="34" text-anchor="middle" font-family="Arial" font-size="24" fill="#16232a">Playbook action mix</text>
+<text x="198" y="116.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">monitor</text>
+<rect x="210" y="70.0" width="710.0" height="72.0" fill="#426B69" rx="4"/>
+<text x="928.0" y="116.8" font-family="Arial" font-size="13" fill="#27343b">11,540</text>
+<text x="198" y="198.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">refresh</text>
+<rect x="210" y="152.0" width="677.4" height="72.0" fill="#426B69" rx="4"/>
+<text x="895.4" y="198.8" font-family="Arial" font-size="13" fill="#27343b">11,010</text>
+<text x="198" y="280.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">refresh_and_review_ctr</text>
+<rect x="210" y="234.0" width="346.6" height="72.0" fill="#426B69" rx="4"/>
+<text x="564.6" y="280.8" font-family="Arial" font-size="13" fill="#27343b">5,633</text>
+<text x="198" y="362.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">refresh_and_review_engagement</text>
+<rect x="210" y="316.0" width="106.7" height="72.0" fill="#426B69" rx="4"/>
+<text x="324.7" y="362.8" font-family="Arial" font-size="13" fill="#27343b">1,735</text>
+<text x="198" y="444.8" text-anchor="end" font-family="Arial" font-size="13" fill="#27343b">expand_and_refresh</text>
+<rect x="210" y="398.0" width="5.0" height="72.0" fill="#426B69" rx="4"/>
+<text x="223.0" y="444.8" font-family="Arial" font-size="13" fill="#27343b">82</text>
+</svg>

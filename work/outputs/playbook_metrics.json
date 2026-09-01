@@ -1,0 +1,20 @@
+{
+  "rows_scored": 30000,
+  "declining_base_rate": 0.542,
+  "honest_groupkfold_auc": 0.65,
+  "honest_groupkfold_p20": 0.76,
+  "honest_groupkfold_p50": 0.732,
+  "top20_declining_rate": 1.0,
+  "action_counts": {
+    "monitor": 11540,
+    "refresh": 11010,
+    "refresh_and_review_ctr": 5633,
+    "refresh_and_review_engagement": 1735,
+    "expand_and_refresh": 82
+  },
+  "confidence_counts": {
+    "low": 15000,
+    "medium": 11077,
+    "high": 3923
+  }
+}
