@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="430.0" y="30" text-anchor="middle" font-family="Arial" font-size="16" fill="#16232a">Model vs rule (same grouped folds)</text>
+<text x="238" y="82.0" text-anchor="end" font-family="Arial" font-size="12.5" fill="#27343b">Rule P@20</text>
+<rect x="250" y="46.0" width="376.2" height="53.0" fill="#6F4E7C" rx="4"/>
+<text x="634.2" y="82.0" font-family="Arial" font-size="12.5" fill="#16232a">0.660</text>
+<text x="238" y="143.0" text-anchor="end" font-family="Arial" font-size="12.5" fill="#27343b">Model P@20</text>
+<rect x="250" y="107.0" width="433.2" height="53.0" fill="#6F4E7C" rx="4"/>
+<text x="691.2" y="143.0" font-family="Arial" font-size="12.5" fill="#16232a">0.760</text>
+<text x="238" y="204.0" text-anchor="end" font-family="Arial" font-size="12.5" fill="#27343b">Rule P@50</text>
+<rect x="250" y="168.0" width="348.8" height="53.0" fill="#6F4E7C" rx="4"/>
+<text x="606.8" y="204.0" font-family="Arial" font-size="12.5" fill="#16232a">0.612</text>
+<text x="238" y="265.0" text-anchor="end" font-family="Arial" font-size="12.5" fill="#27343b">Model P@50</text>
+<rect x="250" y="229.0" width="417.2" height="53.0" fill="#6F4E7C" rx="4"/>
+<text x="675.2" y="265.0" font-family="Arial" font-size="12.5" fill="#16232a">0.732</text>
+</svg>
